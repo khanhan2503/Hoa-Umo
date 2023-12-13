@@ -1,0 +1,9 @@
+2023-12-01T10:39:48+00:00 CRITICAL Uncaught Error: Call to a member function update_meta() on null in /home/halanfeed/domains/halanfeed.com/public_html/havi/wp-content/plugins/elementor-pro/modules/theme-builder/classes/conditions-manager.php:304
+Stack trace:
+#0 /home/halanfeed/domains/halanfeed.com/public_html/havi/wp-content/plugins/elementor-pro/modules/theme-builder/classes/conditions-manager.php(177): ElementorPro\Modules\ThemeBuilder\Classes\Conditions_Manager->save_conditions()
+#1 [internal function]: ElementorPro\Modules\ThemeBuilder\Classes\Conditions_Manager->ajax_save_theme_template_conditions()
+#2 /home/halanfeed/domains/halanfeed.com/public_html/havi/wp-content/plugins/elementor/core/common/modules/ajax/module.php(176): call_user_func()
+#3 /home/halanfeed/domains/halanfeed.com/public_html/havi/wp-includes/class-wp-hook.php(324): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request()
+#4 /home/halanfeed/domains/halanfeed.com/public_html/havi/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#5 /home/halanfeed/do in /home/halanfeed/domains/halanfeed.com/public_html/havi/wp-content/plugins/elementor-pro/modules/theme-builder/classes/conditions-manager.php on line 304
+

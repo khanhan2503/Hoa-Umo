@@ -1,0 +1,36 @@
+.elementor-9372 .elementor-element.elementor-element-2cb947b{text-align:center;}.elementor-9372 .elementor-element.elementor-element-2cb947b .elementor-heading-title{color:var( --e-global-color-7c3bfb6 );font-family:"Quicksand", Sans-serif;font-size:55px;font-weight:700;text-transform:uppercase;}body.elementor-page-9372:not(.elementor-motion-effects-element-type-background), body.elementor-page-9372 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("https://havi.halanfeed.com/wp-content/uploads/2023/12/funfact-bg-1.jpg");}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Quicksand';
+	font-style: normal;
+	font-weight: 100;
+	font-display: auto;
+	src: url('https://havi.halanfeed.com/wp-content/uploads/2023/11/Quicksand-Light.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Quicksand';
+	font-style: normal;
+	font-weight: 500;
+	font-display: auto;
+	src: url('https://havi.halanfeed.com/wp-content/uploads/2023/11/Quicksand-Medium.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Quicksand';
+	font-style: normal;
+	font-weight: 400;
+	font-display: auto;
+	src: url('https://havi.halanfeed.com/wp-content/uploads/2023/11/Quicksand-Regular.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Quicksand';
+	font-style: normal;
+	font-weight: 600;
+	font-display: auto;
+	src: url('https://havi.halanfeed.com/wp-content/uploads/2023/11/Quicksand-SemiBold.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Quicksand';
+	font-style: normal;
+	font-weight: 700;
+	font-display: auto;
+	src: url('https://havi.halanfeed.com/wp-content/uploads/2023/11/Quicksand-Bold.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */

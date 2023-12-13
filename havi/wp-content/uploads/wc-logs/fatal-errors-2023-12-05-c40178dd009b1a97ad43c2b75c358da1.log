@@ -1,0 +1,2 @@
+2023-12-05T10:15:27+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 65536 bytes) in /home/halanfeed/domains/halanfeed.com/public_html/havi/wp-content/plugins/woocommerce/includes/wc-core-functions.php on line 345
+

@@ -1,0 +1,87 @@
+.elementor-9059 .elementor-element.elementor-element-96da363 > .elementor-container{min-height:504px;}.elementor-9059 .elementor-element.elementor-element-96da363 > .elementor-container > .elementor-column > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-9059 .elementor-element.elementor-element-96da363:not(.elementor-motion-effects-element-type-background), .elementor-9059 .elementor-element.elementor-element-96da363 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("https://havi.halanfeed.com/wp-content/uploads/2023/12/background-image.jpg");background-position:0px 0px;background-repeat:no-repeat;background-size:cover;}.elementor-9059 .elementor-element.elementor-element-96da363{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-9059 .elementor-element.elementor-element-96da363 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-9059 .elementor-element.elementor-element-21f4fb2 .elementor-heading-title{color:var( --e-global-color-8de438e );font-family:"Quicksand", Sans-serif;font-size:38px;font-weight:700;text-transform:uppercase;line-height:56px;}.elementor-9059 .elementor-element.elementor-element-e4fdb65{padding:70px 0px 70px 0px;}.elementor-9059 .elementor-element.elementor-element-75e208d > .elementor-widget-container{margin:0px 0px 20px 0px;}.elementor-9059 .elementor-element.elementor-element-75e208d{width:var( --container-widget-width, 80.47% );max-width:80.47%;--container-widget-width:80.47%;--container-widget-flex-grow:0;}.elementor-9059 .elementor-element.elementor-element-d9f451d > .elementor-widget-container{margin:0px 0px 20px 0px;}.elementor-9059 .elementor-element.elementor-element-d9f451d{width:var( --container-widget-width, 80.504% );max-width:80.504%;--container-widget-width:80.504%;--container-widget-flex-grow:0;}.elementor-9059 .elementor-element.elementor-element-d595ef2{width:var( --container-widget-width, 80.86% );max-width:80.86%;--container-widget-width:80.86%;--container-widget-flex-grow:0;}.elementor-9059 .elementor-element.elementor-element-ed7ce43.elementor-wc-products  ul.products{grid-column-gap:20px;grid-row-gap:40px;}.elementor-9059 .elementor-element.elementor-element-ed7ce43.elementor-wc-products ul.products li.product .woocommerce-loop-product__title{color:var( --e-global-color-8de438e );}.elementor-9059 .elementor-element.elementor-element-ed7ce43.elementor-wc-products ul.products li.product .woocommerce-loop-category__title{color:var( --e-global-color-8de438e );}.elementor-9059 .elementor-element.elementor-element-ed7ce43.elementor-wc-products ul.products li.product .woocommerce-loop-product__title, .elementor-9059 .elementor-element.elementor-element-ed7ce43.elementor-wc-products ul.products li.product .woocommerce-loop-category__title{font-family:"Quicksand", Sans-serif;font-size:16px;font-weight:500;}.elementor-9059 .elementor-element.elementor-element-ed7ce43.elementor-wc-products ul.products li.product .star-rating{font-size:0em;}.elementor-9059 .elementor-element.elementor-element-ed7ce43.elementor-wc-products ul.products li.product .price{color:var( --e-global-color-8de438e );font-family:"Quicksand", Sans-serif;font-size:16px;font-weight:700;}.elementor-9059 .elementor-element.elementor-element-ed7ce43.elementor-wc-products ul.products li.product .price ins{color:var( --e-global-color-8de438e );}.elementor-9059 .elementor-element.elementor-element-ed7ce43.elementor-wc-products ul.products li.product .price ins .amount{color:var( --e-global-color-8de438e );}.elementor-9059 .elementor-element.elementor-element-ed7ce43.elementor-wc-products ul.products li.product span.onsale{display:block;}@media(min-width:768px){.elementor-9059 .elementor-element.elementor-element-1c8dedb{width:100%;}.elementor-9059 .elementor-element.elementor-element-73a32a2{width:26.614%;}.elementor-9059 .elementor-element.elementor-element-287cd59{width:73.051%;}}@media(max-width:1024px){.elementor-9059 .elementor-element.elementor-element-96da363:not(.elementor-motion-effects-element-type-background), .elementor-9059 .elementor-element.elementor-element-96da363 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-position:0px 0px;}.elementor-9059 .elementor-element.elementor-element-ed7ce43.elementor-wc-products  ul.products{grid-column-gap:20px;grid-row-gap:40px;}}@media(max-width:767px){.elementor-9059 .elementor-element.elementor-element-96da363:not(.elementor-motion-effects-element-type-background), .elementor-9059 .elementor-element.elementor-element-96da363 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-position:0px 0px;}.elementor-9059 .elementor-element.elementor-element-ed7ce43.elementor-wc-products  ul.products{grid-column-gap:20px;grid-row-gap:40px;}}/* Start custom CSS for wc-archive-products, class: .elementor-element-ed7ce43 *//*.elementor-9059 .elementor-element.elementor-element-ed7ce43 .added_to_cart wc-forward {
+    display: none
+}*/
+
+.elementor-9059 .elementor-element.elementor-element-ed7ce43.elementor-wc-products ul.products li.product .button {
+    display: none
+}
+.elementor-9059 .elementor-element.elementor-element-ed7ce43 button {
+    color:#334339;
+}
+.elementor-9059 .elementor-element.elementor-element-ed7ce43 button:hover {
+    color: #f30
+}
+.elementor-9059 .elementor-element.elementor-element-ed7ce43 .woosw-btn-has-icon:hover, .elementor-9059 .elementor-element.elementor-element-ed7ce43 .woosq-btn-has-icon:hover {
+    background: #fff;
+    border: none
+}
+.elementor-9059 .elementor-element.elementor-element-ed7ce43 .woosw-btn-has-icon {
+    position: absolute;
+    top: 40px;
+    right: 10px;
+    opacity: 0;
+    padding: 6px 6px;
+    border:none;
+    border-radius: 10px;
+}
+
+.elementor-9059 .elementor-element.elementor-element-ed7ce43 .woosq-btn-has-icon {
+    position: absolute;
+    top: 7px;
+    right: 10px;
+    opacity: 0;
+    padding: 6px 6px;
+    border:none;
+    border-radius: 10px;
+}
+.elementor-9059 .elementor-element.elementor-element-ed7ce43.elementor-wc-products ul.products li.product .woocommerce-loop-product__title  {
+     display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    line-clamp: 1;
+    box-orient: vertical;
+        height: 30px;
+}
+
+.elementor-9059 .elementor-element.elementor-element-ed7ce43.elementor-wc-products ul.products li.product:hover .woosq-btn-has-icon , .elementor-9059 .elementor-element.elementor-element-ed7ce43.elementor-wc-products ul.products li.product:hover .woosw-btn-has-icon{
+    opacity: 1;
+    transition: all 1s ease;
+}/* End custom CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Quicksand';
+	font-style: normal;
+	font-weight: 100;
+	font-display: auto;
+	src: url('https://havi.halanfeed.com/wp-content/uploads/2023/11/Quicksand-Light.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Quicksand';
+	font-style: normal;
+	font-weight: 500;
+	font-display: auto;
+	src: url('https://havi.halanfeed.com/wp-content/uploads/2023/11/Quicksand-Medium.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Quicksand';
+	font-style: normal;
+	font-weight: 400;
+	font-display: auto;
+	src: url('https://havi.halanfeed.com/wp-content/uploads/2023/11/Quicksand-Regular.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Quicksand';
+	font-style: normal;
+	font-weight: 600;
+	font-display: auto;
+	src: url('https://havi.halanfeed.com/wp-content/uploads/2023/11/Quicksand-SemiBold.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Quicksand';
+	font-style: normal;
+	font-weight: 700;
+	font-display: auto;
+	src: url('https://havi.halanfeed.com/wp-content/uploads/2023/11/Quicksand-Bold.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */

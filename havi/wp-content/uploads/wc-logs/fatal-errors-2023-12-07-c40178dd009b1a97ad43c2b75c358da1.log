@@ -1,0 +1,2 @@
+2023-12-07T07:55:31+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 126976 bytes) in /home/halanfeed/domains/halanfeed.com/public_html/havi/wp-content/plugins/elementor-pro/plugin.php on line 165
+

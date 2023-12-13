@@ -1,0 +1,251 @@
+.elementor-9075 .elementor-element.elementor-element-2cdc136 > .elementor-container{min-height:504px;}.elementor-9075 .elementor-element.elementor-element-2cdc136 > .elementor-container > .elementor-column > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-9075 .elementor-element.elementor-element-2cdc136:not(.elementor-motion-effects-element-type-background), .elementor-9075 .elementor-element.elementor-element-2cdc136 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-position:center center;background-repeat:no-repeat;background-size:cover;}.elementor-9075 .elementor-element.elementor-element-2cdc136{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-9075 .elementor-element.elementor-element-2cdc136 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-9075 .elementor-element.elementor-element-c9a3d4e .elementor-heading-title{color:var( --e-global-color-8de438e );font-family:"Quicksand", Sans-serif;font-size:38px;font-weight:700;text-transform:uppercase;line-height:56px;}.elementor-9075 .elementor-element.elementor-element-1d26ab7{padding:20px 0px 0px 0px;}@media(min-width:768px){.elementor-9075 .elementor-element.elementor-element-3544afb{width:100%;}}/* Start custom CSS for shortcode, class: .elementor-element-df53913 *//*.elementor-9075 .elementor-element.elementor-element-df53913 .entry-summary .product_title.entry-title{
+    display: none;
+}
+.elementor-9075 .elementor-element.elementor-element-df53913 .entry-summary .price{
+    display: none;
+}
+.elementor-9075 .elementor-element.elementor-element-df53913 .entry-summary .woocommerce-product-details__short-description{
+    display: none;
+}
+.elementor-9075 .elementor-element.elementor-element-df53913 .entry-summary .single_variation_wrap{
+    display: none !important;
+}
+.elementor-9075 .elementor-element.elementor-element-df53913 .woocommerce-product-gallery__trigger{
+    display: none;
+}*/
+
+.elementor-9075 .elementor-element.elementor-element-df53913 .flex-active{
+    border-radius: 24px;
+    border: 1px solid rgba(163, 35, 40, 0.50);
+}
+.elementor-9075 .elementor-element.elementor-element-df53913 .woocommerce-product-gallery__trigger:before, .elementor-9075 .elementor-element.elementor-element-df53913 .woocommerce-product-gallery__trigger{
+    display: none;
+}
+.woocommerce-product-details__short-description h5 {
+    display: none
+}
+.woocommerce div.product div.images .flex-control-thumbs {
+    overflow: hidden;
+    zoom: 1;
+    margin: 0;
+    overflow: auto;
+    padding: 0;
+    display: flex;
+    
+    margin-top: 15px;
+    border-radius: 15px;
+}
+
+.wc-block-components-notice-banner.is-success {
+    background-color: #f4fff7;
+    border-color: #4ab866;
+    position: absolute;
+    top: 125px;
+    right: 0;
+    z-index: 10;
+}
+
+.woocommerce div.product div.images .flex-control-thumbs li img {
+    
+    height: 100px;
+    width: 100px;
+}
+
+.woocommerce .quantity .qty {
+    width: 2.631em;
+    text-align: center;
+}
+.elementor-9075 .elementor-element.elementor-element-df53913 input[type=number]{
+    padding: 5px 9px;
+}
+
+.elementor-9075 .elementor-element.elementor-element-df53913 .product_meta {
+    display: flex;
+    flex-direction: column;
+    gap:10px;
+    margin-top: 20px
+}
+.woocommerce div.product p.price {
+    color: #0a4137;
+    font-weight: 600;
+}
+
+.elementor-9075 .elementor-element.elementor-element-df53913 button {
+    color: #fff !important;
+    background: #334339;
+}
+
+.woocommerce .star-rating span::before {
+    content: "SSSSS";
+    top: 0;
+    color: #dd9b01b5;
+    position: absolute;
+    left: 0;
+}
+
+.elementor-9075 .elementor-element.elementor-element-df53913 .comment-form {
+    padding: 20px;
+    background: #fff;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    border-radius: 20px;
+    margin-top: 15px
+}
+
+.elementor-9075 .elementor-element.elementor-element-df53913 input[type=date],
+.elementor-9075 .elementor-element.elementor-element-df53913 input[type=email],
+.elementor-9075 .elementor-element.elementor-element-df53913 input[type=password],
+.elementor-9075 .elementor-element.elementor-element-df53913 input[type=search],
+.elementor-9075 .elementor-element.elementor-element-df53913 input[type=tel],
+.elementor-9075 .elementor-element.elementor-element-df53913 input[type=text],
+.elementor-9075 .elementor-element.elementor-element-df53913  input[type=url],
+.elementor-9075 .elementor-element.elementor-element-df53913 select,
+.elementor-9075 .elementor-element.elementor-element-df53913 textarea {
+    width: 100%;
+    border: 1px solid #0942453b;
+    border-radius: 10px;
+    padding: 0.5rem 1rem;
+    transition: all .3s;
+}
+
+
+.elementor-9075 .elementor-element.elementor-element-df53913 button:hover {
+    background: green;
+}
+/* Css product item */
+
+.elementor-9075 .elementor-element.elementor-element-df53913.elementor-wc-products ul.products li.product .button {
+    display: none
+}
+.elementor-9075 .elementor-element.elementor-element-df53913 button {
+    color:#334339;
+}
+.elementor-9075 .elementor-element.elementor-element-df53913 button:hover {
+    color: #f30
+}
+.elementor-9075 .elementor-element.elementor-element-df53913 .woosw-btn-has-icon:hover, .elementor-9075 .elementor-element.elementor-element-df53913 .woosq-btn-has-icon:hover {
+    background: #fff;
+    color:#334339;
+    border: none
+}
+.elementor-9075 .elementor-element.elementor-element-df53913 .woosw-btn-has-icon {
+    position: absolute;
+    top: 40px;
+    right: 10px;
+    opacity: 01;
+    padding: 6px 6px;
+    border:none;
+    border-radius: 10px;
+}
+
+.elementor-9075 .elementor-element.elementor-element-df53913 .woosq-btn-has-icon {
+    position: absolute;
+    top: 7px;
+    right: 10px;
+    opacity: 01;
+    padding: 6px 6px;
+    border:none;
+    border-radius: 10px;
+}
+.elementor-9075 .elementor-element.elementor-element-df53913.elementor-wc-products ul.products li.product .woocommerce-loop-product__title  {
+     display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    line-clamp: 1;
+    box-orient: vertical;
+        height: 30px;
+}
+
+.woocommerce ul.products li.product .button {
+    display: none
+}
+
+
+/* End css */
+
+.elementor-9075 .elementor-element.elementor-element-df53913 div.product div.images{
+    width: 46%;
+}
+.elementor-9075 .elementor-element.elementor-element-df53913 .summary.entry-summary{
+    width: 54%;
+    padding: 41px;
+    
+    border-radius: 4px;
+    margin-bottom: 0;
+}
+.elementor-9075 .elementor-element.elementor-element-df53913 li.image-variable-item{
+    width: 70px;
+    height: 70px;
+}
+.elementor-9075 .elementor-element.elementor-element-df53913 .summary.entry-summary th, .elementor-9075 .elementor-element.elementor-element-df53913 .summary.entry-summary td{
+    background-color: #fff;
+    text-align: left;
+    padding-left: 0;
+}
+.elementor-9075 .elementor-element.elementor-element-df53913 .summary.entry-summary tr{
+}
+.elementor-9075 .elementor-element.elementor-element-df53913 .summary.entry-summary tr:first-child th{
+    padding-top: 0px;
+}
+.elementor-9075 .elementor-element.elementor-element-df53913 .summary.entry-summary tr:last-child{
+    border-bottom: none;
+}
+.elementor-9075 .elementor-element.elementor-element-df53913 .summary.entry-summary tr:last-child td.value{
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+.elementor-9075 .elementor-element.elementor-element-df53913 .summary.entry-summary td.value{
+    padding-top: 5px;
+}
+.elementor-9075 .elementor-element.elementor-element-df53913 th.label{
+    padding-top: 5px;
+    padding-bottom: 0px;
+}
+.elementor-9075 .elementor-element.elementor-element-df53913 div.product form.cart{
+    margin-bottom: 0;
+}
+.elementor-9075 .elementor-element.elementor-element-df53913 .reset_variations{
+    display: none !important;
+}
+@media (max-width: 767px){
+    .elementor-9075 .elementor-element.elementor-element-df53913 div.product div.images, .elementor-9075 .elementor-element.elementor-element-df53913 .summary.entry-summary{
+        width: 100%;
+    }
+}/* End custom CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Quicksand';
+	font-style: normal;
+	font-weight: 100;
+	font-display: auto;
+	src: url('https://havi.halanfeed.com/wp-content/uploads/2023/11/Quicksand-Light.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Quicksand';
+	font-style: normal;
+	font-weight: 500;
+	font-display: auto;
+	src: url('https://havi.halanfeed.com/wp-content/uploads/2023/11/Quicksand-Medium.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Quicksand';
+	font-style: normal;
+	font-weight: 400;
+	font-display: auto;
+	src: url('https://havi.halanfeed.com/wp-content/uploads/2023/11/Quicksand-Regular.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Quicksand';
+	font-style: normal;
+	font-weight: 600;
+	font-display: auto;
+	src: url('https://havi.halanfeed.com/wp-content/uploads/2023/11/Quicksand-SemiBold.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Quicksand';
+	font-style: normal;
+	font-weight: 700;
+	font-display: auto;
+	src: url('https://havi.halanfeed.com/wp-content/uploads/2023/11/Quicksand-Bold.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */
